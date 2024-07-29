@@ -1,35 +1,14 @@
-# vue-project
+# Vue shop
+Это мой первый законченный проект по разработке сайта.
 
-This template should help get you started developing with Vue 3 in Vite.
+# Tailwind CSS
+Вместе просто CSS, я решил использовал библиотеку Tailwind CSS. Попробовал, достаточно хорошо помогла. 
 
-## Recommended IDE Setup
+# Auto-animate 
+Я использовал этот плагин для плавности на главной странице и при удалении товаров в корзине.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+# Vue Router
+Для маршрутизации между страниц Home и Favorites, использовал официальный маршрутизатор для Vue
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+# MokkyDev
+Данный сервис использовал для хранения данных о кроссовках, заказах 
